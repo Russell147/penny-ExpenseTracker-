@@ -1,0 +1,4 @@
+{"expo":{"name":"PennyWise","slug":"pinnywise","scheme":"pinnywise","version":"1.0.0","orientation":"portrait","userInterfaceStyle":"automatic","icon":"./assets/icon.png",
+"splash":{"image":"./assets/splash.png","resizeMode":"contain","backgroundColor":"#0F766E"},
+"android":{"adaptiveIcon":{"foregroundImage":"./assets/adaptive-icon.png","backgroundColor":"#0F766E"}},
+"plugins":["expo-router"],"extra":{"firebase":{"apiKey":"REPLACE_WITH_API_KEY","authDomain":"YOUR_PROJECT_ID.firebaseapp.com","projectId":"YOUR_PROJECT_ID","storageBucket":"YOUR_PROJECT_ID.appspot.com","messagingSenderId":"REPLACE_WITH_SENDER_ID","appId":"REPLACE_WITH_APP_ID"}}}}
